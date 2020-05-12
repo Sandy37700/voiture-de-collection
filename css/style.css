@@ -1,0 +1,69 @@
+body {
+  overflow-x: hidden;
+  }
+  
+  .navbar .nav-link {
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    background-size: 30px;
+  }
+
+  .carousel-item {
+    height: 450px;
+  }
+  
+  .carousel-image-1 {
+    background: url('../img/rolls-royce-noire-1920.jpg');
+    background-size: cover;
+  }
+  
+#home-heading {
+  position: relative;
+  min-height: 300px;
+  background: #000;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+  margin-top: 40px;
+}
+
+#info{
+  width : 1000px ;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-right : auto;
+  margin-left:auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: justify;
+  text-align: center;
+  font-size: 15px;
+  }
+
+  /* PORTFOLIO */
+#portfolio {
+    background: #000;
+}
+
+#portfolio .box{
+    width: 300px important;
+    height: 500px;
+    margin: 80px 0px;
+}
+
+#portfolio .thumbnail img {
+    
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
+
+
